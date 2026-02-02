@@ -1,0 +1,26 @@
+{
+  "id": "welcome-001",
+  "minAppVersion": "0.3.0",
+  "expiresAt": "2026-12-31",
+  "slides": [
+    {
+      "title": "Game Utility Tool",
+      "body": "공지 시스템이 활성화되었습니다. 앞으로 업데이트/이벤트 소식을 여기서 확인하세요!",
+      "image": "https://raw.githubusercontent.com/Bedulgi999/Game-Utility-tool-notification/main/announcements/images/slide1.png",
+      "cta": {
+        "label": "GitHub 열기",
+        "url": "https://github.com/Bedulgi999/Game-Utility-tool-notification"
+      }
+    },
+    {
+      "title": "팁",
+      "body": "원하면 ‘7일 동안 보지 않기’를 눌러 팝업을 잠시 숨길 수 있어요.",
+      "image": "https://raw.githubusercontent.com/Bedulgi999/Game-Utility-tool-notification/main/announcements/images/slide2.png"
+    },
+    {
+      "title": "다음 공지",
+      "body": "새 공지는 JSON 파일 추가 + index.json에 한 줄만 더하면 됩니다.",
+      "image": "https://raw.githubusercontent.com/Bedulgi999/Game-Utility-tool-notification/main/announcements/images/promo.png"
+    }
+  ]
+}

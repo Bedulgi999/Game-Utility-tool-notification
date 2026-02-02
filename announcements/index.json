@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "announcements": [
+    {
+      "id": "welcome-001",
+      "file": "welcome-001.json"
+    }
+  ]
+}
